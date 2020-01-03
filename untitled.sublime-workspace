@@ -1,0 +1,1033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"compact"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"vi",
+				"visibility\tproperty"
+			],
+			[
+				"puntuacio",
+				"puntuaciones"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"onc",
+				"onchange\tAttr"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"es",
+				"esperado"
+			],
+			[
+				"sa",
+				"salida"
+			],
+			[
+				"load",
+				"load_model\tCI - Load Model"
+			],
+			[
+				"Welco",
+				"welcome"
+			],
+			[
+				"def",
+				"def?\tdefined(…)"
+			],
+			[
+				"con",
+				"controller\tCI - Base Controller"
+			],
+			[
+				"w",
+				"welcome"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"change",
+				"change_password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/UsuariosController.php",
+			"settings":
+			{
+				"buffer_size": 2002,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jorge/Escritorio/agi_evo/resources/views/compras/table.blade.php",
+			"settings":
+			{
+				"buffer_size": 11926,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/lista_usuarios.blade.php",
+			"settings":
+			{
+				"buffer_size": 713,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/table.blade.php",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/SucursalesController.php",
+			"settings":
+			{
+				"buffer_size": 3867,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/checador"
+	],
+	"file_history":
+	[
+		"/var/www/html/checador/resources/views/trabajadores/index.blade.php",
+		"/var/www/html/checador/app/Usuarios.php",
+		"/var/www/html/checador/routes/web.php",
+		"/var/www/html/checador/resources/views/layouts/menu.blade.php",
+		"/var/www/html/checador/resources/views/layouts/app.blade.php",
+		"/var/www/html/checador/resources/views/auth/register.blade.php",
+		"/var/www/html/checador/resources/views/trabajadores/table.blade.php",
+		"/var/www/html/checador/app/Http/Controllers/Auth/RegisterController.php",
+		"/var/www/html/checador/app/Http/Controllers/SucursalesController.php",
+		"/var/www/html/checador/app/Models/Trabajadores.php",
+		"/var/www/html/checador/app/Http/Controllers/TrabajadoresController.php",
+		"/var/www/html/checador/app/Models/Sucursales.php",
+		"/var/www/html/checador/app/Repositories/SucursalesRepository.php",
+		"/var/www/html/checador/app/Http/Controllers/JornadasController.php",
+		"/var/www/html/checador/app/Http/Controllers/Trabajadores_controller.php",
+		"/var/www/html/checador/app/Repositories/JornadasRepository.php",
+		"/var/www/html/checador/app/Http/Controllers/HomeController.php",
+		"/var/www/html/checador/resources/views/jornadas/index.blade.php",
+		"/var/www/html/checador/resources/views/tipo_marcadors/index.blade.php",
+		"/var/www/html/checador/resources/views/home.blade.php",
+		"/var/www/html/checador/app/Http/Controllers/AppBaseController.php",
+		"/var/www/html/checador/app/Http/Controllers/Controller.php",
+		"/var/www/html/checador/resources/views/sucursales/index.blade.php",
+		"/var/www/html/checador/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/html/checador/resources/views/welcome.blade.php",
+		"/var/www/html/checador/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
+		"/var/www/html/checador/resources/views/layouts/sidebar.blade.php",
+		"/var/www/html/Cubo_erp/application/controllers/basicos.php",
+		"/var/www/html/Cubo_erp/application/views/proyectos/nuevo_proyecto.php",
+		"/var/www/html/Cubo_erp/application/views/proyectos/proyecto_ejecutivo.php",
+		"/var/www/html/Cubo_erp/application/views/compras/insumos/nuevo_insumo.php",
+		"/var/www/html/Cubo_erp/application/views/compras/insumos/cargar_insumo.php",
+		"/var/www/html/Cubo_erp/application/controllers/compras.php",
+		"/var/www/html/Cubo_erp/application/views/almacen/agregarvales.php",
+		"/var/www/html/Cubo_erp/application/views/postventa/incidencia_pend.php",
+		"/home/jorge/Escritorio/ejercicios/curso dom/dom.js",
+		"/home/jorge/Escritorio/ejercicios/curso dom/calculadora_arc.js",
+		"/home/jorge/Escritorio/ejercicios/curso dom/js/curso2.js",
+		"/home/jorge/Escritorio/ejercicios/curso dom/dom.html",
+		"/var/www/html/Cubo_erp/application/views/structure/header.php",
+		"/home/jorge/Descargas/calculadora_eventos.html",
+		"/var/www/html/Cubo_erp/application/controllers/aditivas.php",
+		"/home/jorge/Escritorio/ejercicios/curso dom/curso2.js",
+		"/home/jorge/Escritorio/dudas.js",
+		"/home/jorge/Escritorio/escenarios movimientos almacen.txt",
+		"/var/www/html/Cubo_erp/application/core/MY_Model.php",
+		"/var/www/html/Cubo_erp/application/controllers/auth.php",
+		"/var/www/html/Cubo_erp/application/views/auth/permisos.php",
+		"/home/jorge/Escritorio/salida.txt",
+		"/var/www/html/Cubo_erp/application/views/structure/main_menu.php",
+		"/var/www/html/Cubo_erp/application/libraries/modal_lib.php",
+		"/var/www/html/Cubo_erp/application/controllers/estatus_cliente.php",
+		"/var/www/html/Cubo_erp/application/controllers/areas.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_meta_desarrollo.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_meta_asesor.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_meta_estadisticas.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_meta_grupo.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_meta_meses_desarrollo.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_publicidad.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_credito.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_cliente.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_cartera_clientes.php",
+		"/var/www/html/Cubo_erp/application/controllers/calendario_control.php",
+		"/var/www/html/Cubo_erp/application/controllers/seguimientos_control.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_grupo_ventas.php",
+		"/var/www/html/Cubo_erp/application/controllers/comisiones.php",
+		"/var/www/html/Cubo_erp/application/views/crm/cliente/form/cliente_apartar_lote.php",
+		"/var/www/html/Cubo_erp/application/views/crm/desarrollo/forms/lote_edit_gerente_ventas.php",
+		"/var/www/html/Cubo_erp/application/views/crm/desarrollo/forms/lote_edit_gestor_proyectos.php",
+		"/var/www/html/Cubo_erp/application/controllers/crm_desarrollo_plano.php",
+		"/var/www/html/Cubo_erp/application/views/crm/desarrollo/lotes_liberar.php",
+		"/var/www/html/Cubo_erp/application/views/modales/large_modal.php",
+		"/var/www/html/Cubo_erp/application/views/crm/desarrollo/desarrollo.php",
+		"/var/www/html/Cubo_erp/application/views/crm/cliente/cliente/historial_tabla_datos.php",
+		"/var/www/html/Cubo_erp/application/views/comisiones/configuracion_pagos.php",
+		"/var/www/html/Cubo_erp/application/views/comisiones/tabla_pagos.php",
+		"/var/www/html/Cubo_erp/application/models/permisos_m_model.php",
+		"/home/jorge/Escritorio/1.sql",
+		"/var/www/html/igniter2/application/models/Usuarios_model.php",
+		"/var/www/html/igniter2/application/controllers/Servicios.php",
+		"/var/www/html/igniter2/assets/AdminLTE/js/AdminLTE/app.js",
+		"/var/www/html/igniter2/assets/AdminLTE/pages/forms/advanced.html",
+		"/var/www/html/igniter2/application/views/layaout/footer.php",
+		"/var/www/html/igniter2/application/views/layaout/header.php",
+		"/var/www/html/igniter2/application/views/users_view.php",
+		"/var/www/html/igniter2/application/views/table_user.php",
+		"/var/www/html/igniter2/assets/AdminLTE/pages/forms/general.html",
+		"/var/www/html/igniter2/assets/AdminLTE/pages/forms/empty.html",
+		"/var/www/html/igniter2/assets/AdminLTE/pages/forms/editors.html",
+		"/var/www/html/igniter2/application/views/servicios/tabla_servicios.php",
+		"/var/www/html/igniter2/application/controllers/Asistencia_controller.php",
+		"/var/www/html/igniter2/assets/AdminLTE/less/invoice.less",
+		"/var/www/html/igniter2/application/controllers/Users.php",
+		"/var/www/html/igniter2/application/views/layaout/menu.php",
+		"/var/www/html/igniter2/application/views/servicios/servicios_view.php",
+		"/var/www/html/igniter2/assets/AdminLTE/js/AdminLTE/direccionamiento.js",
+		"/var/www/html/Cubo_erp/application/views/crm/cliente/addcliente2.php",
+		"/var/www/html/igniter2/application/tests/models/Test_model_test.php",
+		"/var/www/html/igniter2/application/tests/controllers/Welcome_test.php",
+		"/var/www/html/igniter2/application/tests/phpunit.xml",
+		"/var/www/html/igniter2/application/models/Servicios_model.php",
+		"/home/jorge/Descargas/Dockerfile",
+		"/var/www/html/dockertest/composer.json",
+		"/var/www/html/igniter2/application/controllers/Demo.php",
+		"/var/www/html/igniter2/application/models/Test_demo_model.php",
+		"/var/www/html/igniter2/composer.json",
+		"/var/www/html/igniter2/application/views/demo_view.php",
+		"/var/www/html/igniter2/application/views/tests/login.php",
+		"/var/www/html/igniter2/application/controllers/Welcome.php",
+		"/var/www/html/igniter2/application/tests/models/test_model_test.php",
+		"/var/www/html/igniter2/application/models/test_demo_model.php",
+		"/var/www/html/igniter2/application/tests/controllers/Demo.php",
+		"/var/www/html/igniter2/application/views/welcome_message.php",
+		"/var/www/html/igniter2/application/views/asistencias/asistencias_view.php",
+		"/var/www/html/igniter2/vendor/kenjis/ci-phpunit-test/application/tests/controllers/Welcome_test.php",
+		"/var/www/html/igniter2/application/views/asistencias/tabla_asistencia.php",
+		"/var/www/html/igniter2/application/tests/phpunit.sh",
+		"/var/www/html/igniter2/application/tests/UnitTestCase.php",
+		"/var/www/html/igniter2/application/tests/TestCase.php",
+		"/var/www/html/igniter2/vendor/phpunit/phpunit/phpunit",
+		"/home/jorge/Escritorio/formulas  tabla maestra.txt",
+		"/var/www/html/phpunitexample/Test.php",
+		"/var/www/html/igniter2/application/models/Asistencia_model.php",
+		"/var/www/html/phpunitexample/composer.json",
+		"/var/www/html/phpunitexample/Calculadora.php",
+		"/home/jorge/.bashrc",
+		"/home/jorge/Escritorio/mochatest/mochatest2/test/test1.js",
+		"/var/www/html/phpunitexample/test.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trabajadores",
+			"colspan=\"4\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/var/www/html/checador"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/UsuariosController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1205.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jorge/Escritorio/agi_evo/resources/views/compras/table.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 549.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/auth/lista_usuarios.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/auth/table.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/SucursalesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3858,
+								3858
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1882.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"JornadasController",
+				"app/Http/Controllers/JornadasController.php"
+			],
+			[
+				"main",
+				"application/views/structure/main_menu.php"
+			],
+			[
+				"header",
+				"application/views/structure/header.php"
+			],
+			[
+				"compras",
+				"application/controllers/compras.php"
+			],
+			[
+				"proyectos/nuevo_proyecto",
+				"application/views/proyectos/nuevo_proyecto.php"
+			],
+			[
+				"proyec",
+				"application/views/proyectos/proyecto_ejecutivo.php"
+			],
+			[
+				"compras/insumos/cargar_insumo",
+				"application/views/compras/insumos/cargar_insumo.php"
+			],
+			[
+				"inci",
+				"application/views/postventa/incidencia_pend.php"
+			],
+			[
+				"hea",
+				"application/views/structure/header.php"
+			],
+			[
+				"per",
+				"application/views/auth/permisos.php"
+			],
+			[
+				"aut",
+				"application/controllers/auth.php"
+			],
+			[
+				"permi",
+				"application/views/auth/permisos.php"
+			],
+			[
+				"auth",
+				"application/controllers/auth.php"
+			],
+			[
+				"crm_meta_meses_desarrollo",
+				"application/controllers/crm_meta_meses_desarrollo.php"
+			],
+			[
+				"crm_meta_grupo",
+				"application/controllers/crm_meta_grupo.php"
+			],
+			[
+				"crm_meta_estadisticas",
+				"application/controllers/crm_meta_estadisticas.php"
+			],
+			[
+				"crm_meta_asesor",
+				"application/controllers/crm_meta_asesor.php"
+			],
+			[
+				"crm_meta_desarrollo",
+				"application/controllers/crm_meta_desarrollo.php"
+			],
+			[
+				"comisiones",
+				"application/controllers/comisiones.php"
+			],
+			[
+				"crm_grupo_ventas",
+				"application/controllers/crm_grupo_ventas.php"
+			],
+			[
+				"seguimientos_control",
+				"application/controllers/seguimientos_control.php"
+			],
+			[
+				"calendario_control",
+				"application/controllers/calendario_control.php"
+			],
+			[
+				"crm_cartera_clientes",
+				"application/controllers/crm_cartera_clientes.php"
+			],
+			[
+				"crm_cl",
+				"application/controllers/crm_cliente.php"
+			],
+			[
+				"crm_cre",
+				"application/controllers/crm_credito.php"
+			],
+			[
+				"crm_publicidad",
+				"application/controllers/crm_publicidad.php"
+			],
+			[
+				"estatus_cliente",
+				"application/controllers/estatus_cliente.php"
+			],
+			[
+				"area",
+				"application/controllers/areas.php"
+			],
+			[
+				"au",
+				"application/controllers/auth.php"
+			],
+			[
+				"crm/desarrollo/forms/lote_edit_gestor_proyectos",
+				"application/views/crm/desarrollo/forms/lote_edit_gestor_proyectos.php"
+			],
+			[
+				"lotes",
+				"application/views/crm/desarrollo/lotes_liberar.php"
+			],
+			[
+				"crm_de",
+				"application/controllers/crm_desarrollo_plano.php"
+			],
+			[
+				"crm/cliente/form/cliente_apartar_lote",
+				"application/views/crm/cliente/form/cliente_apartar_lote.php"
+			],
+			[
+				"crm_cliente",
+				"application/controllers/crm_cliente.php"
+			],
+			[
+				"crm/desarrollo/desarrollo",
+				"application/views/crm/desarrollo/desarrollo.php"
+			],
+			[
+				"plano",
+				"application/controllers/crm_desarrollo_plano.php"
+			],
+			[
+				"crm/desarrollo/forms/lote_edit_gerente_ventas",
+				"application/views/crm/desarrollo/forms/lote_edit_gerente_ventas.php"
+			],
+			[
+				"modales/large_modal",
+				"application/views/modales/large_modal.php"
+			],
+			[
+				"crm_desarrollo_plano",
+				"application/controllers/crm_desarrollo_plano.php"
+			],
+			[
+				"comisiones/tabla_pagos",
+				"application/views/comisiones/tabla_pagos.php"
+			],
+			[
+				"configuracion_pagos",
+				"application/views/comisiones/configuracion_pagos.php"
+			],
+			[
+				"comisi",
+				"application/controllers/comisiones.php"
+			],
+			[
+				"permisos_m_model",
+				"application/models/permisos_m_model.php"
+			],
+			[
+				"auth/permisos",
+				"application/views/auth/permisos.php"
+			],
+			[
+				"use",
+				"application/controllers/Users.php"
+			],
+			[
+				"usuar",
+				"application/models/Usuarios_model.php"
+			],
+			[
+				"servi",
+				"application/controllers/Servicios.php"
+			],
+			[
+				"asisten",
+				"application/controllers/Asistencia_controller.php"
+			],
+			[
+				"app",
+				"assets/AdminLTE/js/AdminLTE/app.js"
+			],
+			[
+				"footer",
+				"application/views/layaout/footer.php"
+			],
+			[
+				"tabla",
+				"application/views/servicios/tabla_servicios.php"
+			],
+			[
+				"table",
+				"application/views/table_user.php"
+			],
+			[
+				"asis",
+				"application/controllers/Asistencia_controller.php"
+			],
+			[
+				"layaout/menu",
+				"application/views/layaout/menu.php"
+			],
+			[
+				"users",
+				"application/controllers/Users.php"
+			],
+			[
+				"direccionamiento",
+				"assets/AdminLTE/js/AdminLTE/direccionamiento.js"
+			],
+			[
+				"heade",
+				"application/views/layaout/header.php"
+			],
+			[
+				"head",
+				"application/views/layaout/header.php"
+			],
+			[
+				"tabla_asistencia",
+				"application/views/asistencias/tabla_asistencia.php"
+			],
+			[
+				"Asis",
+				"application/views/asistencias/asistencias_view.php"
+			],
+			[
+				"tabla_servicios",
+				"application/views/servicios/tabla_servicios.php"
+			],
+			[
+				"application/tests/phpunit.xml",
+				"application/tests/phpunit.xml"
+			],
+			[
+				"demo",
+				"application/controllers/Demo.php"
+			],
+			[
+				"ser",
+				"application/controllers/Servicios.php"
+			],
+			[
+				"test_mo",
+				"application/tests/models/Test_model_test.php"
+			],
+			[
+				"welco",
+				"application/tests/controllers/Welcome_test.php"
+			],
+			[
+				"test_de",
+				"application/tests/models/Test_model_test.php"
+			],
+			[
+				"test",
+				"application/models/Test_demo_model.php"
+			],
+			[
+				"dem",
+				"application/controllers/Demo.php"
+			],
+			[
+				"wel",
+				"application/controllers/Welcome.php"
+			],
+			[
+				"Asiste",
+				"application/controllers/Asistencia_controller.php"
+			],
+			[
+				"asiste",
+				"application/controllers/Asistencia_controller.php"
+			],
+			[
+				"asistencias/asistencias_view",
+				"application/views/asistencias/asistencias_view.php"
+			],
+			[
+				"welcome",
+				"application/views/welcome_message.php"
+			],
+			[
+				"mesa",
+				"application/views/welcome_message.php"
+			],
+			[
+				"UnitTestCase",
+				"application/tests/UnitTestCase.php"
+			],
+			[
+				"TestCase",
+				"application/tests/TestCase.php"
+			],
+			[
+				"phpuni",
+				"vendor/phpunit/phpunit/phpunit"
+			],
+			[
+				"users_view",
+				"application/views/users_view.php"
+			],
+			[
+				"welcome_message",
+				"application/views/welcome_message.php"
+			],
+			[
+				"Welcome_test.",
+				"vendor/kenjis/ci-phpunit-test/application/tests/controllers/Welcome_test.php"
+			],
+			[
+				"asistencias/tabla_asistencia",
+				"application/views/asistencias/tabla_asistencia.php"
+			],
+			[
+				"asi",
+				"application/views/asistencias/asistencias_view.php"
+			],
+			[
+				"user",
+				"application/views/users_view.php"
+			],
+			[
+				"contratos",
+				"application/views/presupuesto/contratos/asignar.php"
+			],
+			[
+				"auth/change_password",
+				"application/views/auth/change_password.php"
+			],
+			[
+				"abasicos",
+				"application/views/presupuesto/basicos/basico.php"
+			],
+			[
+				"second",
+				"application/views/structure/second_menu.php"
+			],
+			[
+				"seco",
+				"application/views/structure/second_menu.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"controll",
+				"system/core/Controller.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"mysqli_driver",
+				"system/database/drivers/mysqli/mysqli_driver.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/Cubo_erp/cubo.sublime-workspace"
+			],
+			[
+				"do",
+				"/var/www/html/agi_evo/doctor.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
