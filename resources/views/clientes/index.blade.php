@@ -218,7 +218,25 @@
             
             
             
-        });       
+        });  
+
+  $('#search').on('keyup', function(event) {
+      var query = $(this).val();
+      getFilter(query)
+      console.log(query);
+
+    });
+
+    function getFilter(query){
+      $.ajax({
+       url: '{{ url('/ajax/filtrar_clientes?query=') }}'+query,
+       type: 'GET'
+     })
+     .done(function(data) {
+       $('#clientes-table').html(data);
+      
+     });
+    }           
 
 
 

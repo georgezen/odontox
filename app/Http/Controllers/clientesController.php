@@ -64,6 +64,36 @@ class clientesController extends Controller
      }
     }
 
+
+    public function filter(Request $request){
+        if ($request->ajax()) {
+            $query = $request->get('query');
+            if ($query != "") {
+                $clientes = DB::table('clientes')
+                            ->where('nombre','LIKE','%'.$query.'%')
+                            ->orWhere('ape_paterno','LIKE','%'.$query.'%')
+                            ->orWhere('ape_materno','LIKE','%'.$query.'%')
+                            ->orWhere('telefono','LIKE','%'.$query.'%')
+                            ->orWhere('calle','LIKE','%'.$query.'%')
+                            ->orWhere('num_exterior','LIKE','%'.$query.'%')
+                            ->orWhere('colonia','LIKE','%'.$query.'%')
+                            ->paginate(50); 
+            }else{
+                $clientes = DB::table('clientes')
+                            ->paginate(10); 
+            }
+            
+
+           $count = $clientes->count();
+           return view('clientes.table')
+                        ->with('clientes',$clientes)
+                        ->with('count',$count)
+                        ->render();
+            
+        }
+        
+    }
+
     public function edit(Request $request){
     
 

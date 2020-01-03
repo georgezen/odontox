@@ -100,6 +100,7 @@ Route::group(['middleware' => ['auth', 'admin']], function () {
 	Route::get('/edit_cliente', 'clientesController@edit')->name('edit_cliente');
 	Route::post('/update_cliente', 'clientesController@update')->name('update_cliente');
 	Route::post('/delete_cliente', 'clientesController@destroy')->name('delete_cliente');
+	Route::get('/ajax/filtrar_clientes/','clientesController@filter');
 
 //fin rutas para crud clientes	
 
