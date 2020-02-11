@@ -110,7 +110,7 @@
 
             <!-- Main Footer -->
             <footer class="main-footer" style="max-height: 100px;text-align: center">
-                <strong>Copyright © <?php echo date('Y');?> <a href="#">Company</a>.</strong> Todos los derechos reservados.
+                <strong>Copyright © <?php echo date('Y');?> <a href="#">Company</a>.</strong> Todos los derechos reservados. Version 1.1
             </footer>
 
         </div>

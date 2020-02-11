@@ -3,11 +3,31 @@
 
 @section('content')
 <section class="content-header">
-    <h1 class="pull-left">Proveedores</h1>
-    <h1 class="pull-right">
-      <button type="button" class="btn btn-primary pull-right" id="modal-one1"data-toggle="modal" data-target="#miModal">Añadir proveedor</button>
+     <div class="row">
+      <div class="col-sm-3">
+        <h1 class="pull-left">Proveedores</h1>
+      </div>
+     <form >
+      <div class="col-sm-6">
+        <div class="form-group">
+          <label for="Codigo">Buscar</label>
+        <input type="text" class="form-control" id="search" name="search">    
+          
+        </div>
+        
+      </div>
       
+      <div class="col-sm-1">
+       
+      </div>
+      </form>
+      <div class="col-sm-2">
+        <h1 class="pull-right">
+      <button type="button" class="btn btn-primary pull-right" id="modal-one1"data-toggle="modal" data-target="#miModal">Añadir proveedor</button>
   </h1>
+        
+      </div>
+    </div>
 
 </section>
 
@@ -203,6 +223,26 @@
             
             
         });
+
+
+
+    $('#search').on('keyup', function(event) {
+      var query = $(this).val();
+      getFilter(query)
+      console.log(query);
+
+    });
+
+    function getFilter(query){
+      $.ajax({
+       url: '{{ url('/ajax/filtrar_proveedores?query=') }}'+query,
+       type: 'GET'
+     })
+     .done(function(data) {
+       $('#table-proveedores').html(data);
+      
+     });
+    }    
  
 
 

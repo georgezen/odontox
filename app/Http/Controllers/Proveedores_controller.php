@@ -64,6 +64,41 @@ class Proveedores_controller extends Controller
     }
 
 
+    public function filter(Request $request){
+        
+        if ($request->ajax()) {
+        $query = $request->get('query');
+            //dd(gettype($query));
+        if ($query != '') {
+            $data = DB::table('proveedores')
+                            ->where('nombre','LIKE','%'.$query.'%')
+                            ->orWhere('ape_paterno','LIKE','%'.$query.'%')
+                            ->orWhere('ape_materno','LIKE','%'.$query.'%')
+                            ->orWhere('telefono','LIKE','%'.$query.'%')
+                            ->orWhere('calle','LIKE','%'.$query.'%')
+                            ->orWhere('num_exterior','LIKE','%'.$query.'%')
+                            ->orWhere('colonia','LIKE','%'.$query.'%')
+                            ->paginate(50); 
+        
+            
+        }else{
+            $data = DB::table('productos')
+            ->orderBy('id_producto','asc')
+            ->paginate(10);
+            
+        }
+
+        $total_registros = $data->count();
+
+        
+        return view('proveedores.table')->with('proveedores',$data)
+        ->with('count',$total_registros)
+        ->render();
+    }
+        
+    }
+
+
     public function update(Request $request){
 
        if ($request->ajax()) {

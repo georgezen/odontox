@@ -76,6 +76,7 @@ Route::group(['middleware' => ['auth', 'admin']], function () {
 	Route::get('/edit_proveedor', 'Proveedores_controller@edit')->name('edit_proveedor');
 	Route::post('/update_proveedor', 'Proveedores_controller@update')->name('update_proveedor');
 	Route::post('/delete_proveedor', 'Proveedores_controller@destroy')->name('delete_proveedor');
+	Route::get('/ajax/filtrar_proveedores/','Proveedores_controller@filter');
 	
 //fin rutas proveedores 
 
